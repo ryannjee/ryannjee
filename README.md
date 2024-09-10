@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @ryannjee
-- 
+
 <p align="center">
 	<img src="https://komarev.com/ghpvc/?username=ryannjee&color=blueviolet&style=flat-square&label=Profile+Views" />
 </p>
+
+- 👋 Hi, I’m @ryannjee
 
 <!---
 ryannjee/ryannjee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
