@@ -6,7 +6,7 @@
 👋 Hi, I’m @ryannjee
 
 
-  <a href="https://github.com/ryannjee"><src="https://github-readme-stats.vercel.app/api?username=ryannjee&theme=radical></a>
+  (https://github-readme-stats.vercel.app/api?username=ryannjee&theme=radical)
   <a href="https://github.com/ryannjee"><src="http://github-readme-streak-stats.herokuapp.com/?user=ryannjee&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
 
 <!---
