@@ -9,7 +9,7 @@
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryannjee&layout=compact)
 
-![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=ryannjee&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ryannjee&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryannjee&layout=compact)  
 ![ViewCount](https://komarev.com/ghpvc/?username=ryannjee&color=63c5da)
 
