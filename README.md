@@ -20,7 +20,7 @@
 </h2>
 
 <p align="center">
-  <a href="https://github.com/ryannje">
+  <a href="https://github.com/ryannjee/">
     <img align="left"  src=https://img.shields.io/badge/Github-%2324292e?style=for-the-badge&logo=github&logoColor=white />
   </a>
   <a href="https://www.linkedin.com/in/ryan-jee-a67635317/">
