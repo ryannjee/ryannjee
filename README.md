@@ -2,11 +2,7 @@
 Hi, I'm Ryan Jee!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
   <img src="https://komarev.com/ghpvc/?username=ryannjee&label=Profile%20Views&color=1f456e&style=flat" align='right' alt="ryannjee" />
- 
-<div align="left">
-  <img alt="ryannjee | Count Views" src="https://komarev.com/ghpvc/?username=ryannjee&color=1f456e" />
-</div>
-<br>
+
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryannjee&layout=compact&show_icon=true" alt="ryannjee-langs"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/?username=ryannjee&layout=compact&show_icon=true" alt="ryannjee-stats"/>
