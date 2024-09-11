@@ -1,6 +1,6 @@
 
 <p align="center">
-	<img src="https://komarev.com/ghpvc/?username=ryannjee&color=blueviolet&style=flat-square&label=Profile+Views" />
+	<img src="https://komarev.com/ghpvc/?username=oktaykir&label=Profile%20views&color=0e75b6&style=flat" alt="ryannjee" />
 </p>
 
 👋 Hi, I’m @ryannjee
