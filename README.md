@@ -5,6 +5,12 @@ Hi, I'm Ryan Jee!
   <img src="https://img.shields.io/badge/Ryan Jee%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>(https://linkedin.com/in/ngudbhav)
   <img src="https://img.shields.io/badge/@ryannjee%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>(https://instagram.com/ngudbhav/)
 
+
+<div align="center">
+  <a href="https://github.com/YauhenKavalchuk">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/YauhenKavalchuk?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+</div>
+
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryannjee&layout=compact&show_icon=true" alt="ryannjee-langs"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/?username=ryannjee&layout=compact&show_icon=true" alt="ryannjee-stats"/>
