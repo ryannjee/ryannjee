@@ -1,16 +1,11 @@
 <h1 align="center">
-Hi, I'm Ryan Jee!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
-  <img src="https://komarev.com/ghpvc/?username=ryannjee&label=Profile%20Views&color=1f456e&style=flat" align='right' alt="ryannjee" />
-  <img src="https://img.shields.io/badge/Ryan Jee%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>(https://linkedin.com/in/ngudbhav)
-  <img src="https://img.shields.io/badge/@ryannjee%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>(https://instagram.com/ngudbhav/)
-
+  Hi, I'm Ryan Jee! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+</h1>
 
 <div align="center">
-  <a href="https://github.com/YauhenKavalchuk">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/YauhenKavalchuk?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=ryannjee&label=Profile%20Views&color=1f456e&style=flat" lt="ryannjee" />
 </div>
-
+<br>
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryannjee&layout=compact&show_icon=true" alt="ryannjee-langs"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/?username=ryannjee&layout=compact&show_icon=true" alt="ryannjee-stats"/>
@@ -19,6 +14,22 @@ Hi, I'm Ryan Jee!
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=ryannjee&hide_border=true" />
 </div>
+
+<h2 align="center">
+  Connect with Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="30px">
+</h2>
+
+<p align="center">
+  <a href="https://github.com/ryannje">
+    <img align="left"  src=https://img.shields.io/badge/Github-%2324292e?style=for-the-badge&logo=github&logoColor=white />
+  </a>
+  <a href="https://www.linkedin.com/in/ryan-jee-a67635317/">
+    <img align="left"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/ryannjee/">
+    <img align="left"  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p> 
 
 <!---
 ryannjee/ryannjee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
