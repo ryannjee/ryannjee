@@ -11,7 +11,7 @@
 
 ![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=ryannjee&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryannjee&layout=compact)  
-![ViewCount](https://komarev.com/ghpvc/?username=ryannjee&color=1f456e)
+![ViewCount](https://komarev.com/ghpvc/?username=ryannjee&color=63c5da)
 
 <!---
 ryannjee/ryannjee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
