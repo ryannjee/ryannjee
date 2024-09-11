@@ -1,6 +1,6 @@
 👋 Hi, I’m @ryannjee
 
-[<img src="https://raw.githubusercontent.com/ngudbhav/ngudbhav/main/intro.gif" alt="👋 Hi there! I'm Udbhav | https://ngudbhav.com" title="👋 Hi there! I'm Udbhav | https://ngudbhav.com"/>](https://ngudbhav.com/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=1f456e&size=24&width=500&lines=👋+Hi,+I'm+Ryan)](https://git.io/typing-svg)
 
 <div>
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/ryannjee"> &nbsp;&nbsp; <img alt="ryannjee | Count Views" src="https://komarev.com/ghpvc/?username=ryannjee&color=1f456e" />
