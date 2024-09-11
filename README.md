@@ -5,6 +5,7 @@
 
 👋 Hi, I’m @ryannjee
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=seangjr)  
 
 <!---
 ryannjee/ryannjee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
