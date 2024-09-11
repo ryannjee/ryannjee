@@ -1,4 +1,7 @@
 👋 Hi, I’m @ryannjee
+
+[<img src="https://raw.githubusercontent.com/ngudbhav/ngudbhav/main/intro.gif" alt="👋 Hi there! I'm Udbhav | https://ngudbhav.com" title="👋 Hi there! I'm Udbhav | https://ngudbhav.com"/>](https://ngudbhav.com/)
+
 <div>
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/ryannjee"> &nbsp;&nbsp; <img alt="ryannjee | Count Views" src="https://komarev.com/ghpvc/?username=ryannjee&color=1f456e" />
 </div>
