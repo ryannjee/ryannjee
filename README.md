@@ -1,7 +1,7 @@
 👋 Hi, I’m @ryannjee
 
 ![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=ryannjee)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryannjee)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryannjee&layout=compact)  
 <br>
 ![ViewCount](https://komarev.com/ghpvc/?username=ryannjee&color=63c5da)
 
