@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1f456e&size=16&width=300&lines=👋Hi,+I'm+Ryan)](https://git.io/typing-svg)
-<img alt="ryannjee | Count Views" src="https://komarev.com/ghpvc/?username=ryannjee&color=1f456e" />
-
+<div align="left">
+  <img alt="ryannjee | Count Views" src="https://komarev.com/ghpvc/?username=ryannjee&color=1f456e" />
+</div>
 <br>
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryannjee&layout=compact&show_icon=true" alt="ryannjee-langs"/>
