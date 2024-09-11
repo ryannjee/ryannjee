@@ -1,7 +1,7 @@
 <h1 align="center">
 Hi, I'm Ryan Jee!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
-  <img src="https://komarev.com/ghpvc/?username=yashitanamdeo&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="yashitanamdeo" />
+  <img src="https://komarev.com/ghpvc/?username=ryannjee&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="ryannjee" />
  
 <div align="left">
   <img alt="ryannjee | Count Views" src="https://komarev.com/ghpvc/?username=ryannjee&color=1f456e" />
