@@ -1,14 +1,10 @@
 👋 Hi, I’m @ryannjee
 
-![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=ryannjee)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryannjee&layout=compact)  
-<br>
-![ViewCount](https://komarev.com/ghpvc/?username=ryannjee&color=63c5da)
-
 <div align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryannjee&layout=compact&show_icon=true" alt="ryannjee-langs"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/?username=ryannjee&layout=compact&show_icon=true" alt="ryannjee-stats"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryannjee&layout=compact&show_icon=true" alt="ryannjee-langs"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/?username=ryannjee&layout=compact&show_icon=true" alt="ryannjee-stats"/>
 </div>
+
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=ryannjee&hide_border=true" />
 </div>
