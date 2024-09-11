@@ -7,13 +7,13 @@
 </div>
 <br>
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryannjee&layout=compact&show_icon=true" alt="ryannjee-langs"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/?username=ryannjee&layout=compact&show_icon=true" alt="ryannjee-stats"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryannjee&layout=compact&show_icon=true" alt="ryannjee-langs"/>
+  <img height="200em" src="http://github-readme-streak-stats.herokuapp.com?user=ryannjee&show_icon=true" alt="ryannjee-stats"/>
 </div>
 
-<div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=ryannjee&hide_border=true" />
-</div>
+<!--<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/?username=ryannjee&layout=compact" />
+</div>-->
 
 <h2 align="center">
   Connect with Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="30px">
