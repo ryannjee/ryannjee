@@ -4,8 +4,6 @@
 </p>
 
 👋 Hi, I’m @ryannjee
-<br>
-Skills: HTML, CSS, JavaScript, PHP, MySQL, Java
 
 
 <!---
