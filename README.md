@@ -12,7 +12,7 @@
 </div>
 
 <!--<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=ryannjee&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/?username=ryannjee&hide_border=true&layout=compact" />
 </div>-->
 
 <h2 align="center">
