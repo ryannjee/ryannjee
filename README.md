@@ -19,13 +19,13 @@
 
 <p align="center">
   <a href="https://github.com/ryannjee/">
-    <img align="left"  src="https://img.shields.io/badge/Github-%2324292e?style=for-the-badge&logo=github&logoColor=white"/>
+    <img align="center"  src="https://img.shields.io/badge/Github-%2324292e?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/ryan-jee-a67635317/">
-    <img align="left"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img align="center"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/ryannjee/">
-    <img align="left"  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img align="center"  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p> 
 
